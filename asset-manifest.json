@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/github.io/todotypesc/static/js/main.b886443d.js",
-    "index.html": "/github.io/todotypesc/index.html",
-    "main.b886443d.js.map": "/github.io/todotypesc/static/js/main.b886443d.js.map"
+    "main.js": "/todotypesc/static/js/main.9991e70b.js",
+    "index.html": "/todotypesc/index.html",
+    "main.9991e70b.js.map": "/todotypesc/static/js/main.9991e70b.js.map"
   },
   "entrypoints": [
-    "static/js/main.b886443d.js"
+    "static/js/main.9991e70b.js"
   ]
 }
